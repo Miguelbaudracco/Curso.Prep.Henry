@@ -1,0 +1,28 @@
+h1{
+    color:blue  ;
+    font-size: 35px;
+}
+h2{
+    color:cyan;
+    font-size: 30px;
+}
+h3{
+    color: blue;
+    font-size: 25px;
+} 
+#centrado{
+    text-align: center;
+    justify-content: center;  
+}
+#Descripcion{
+   /* color:darkblue;*/
+}
+p{
+    color:cyan;
+    font-size: 25px;
+  /*  background-color:white;*/
+}
+img{
+    width: 200px;
+}
+
